@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Creación de paquete npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senboada/npm.git"
+  },
+  "keywords": [
+    "Javascrit",
+    "npm",
+    "package"
+  ],
+  "author": "SenBoada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senboada/npm/issues"
+  },
+  "homepage": "https://github.com/senboada/npm#readme"
+}
